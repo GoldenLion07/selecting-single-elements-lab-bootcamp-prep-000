@@ -25,7 +25,7 @@ Go ahead and select the JavaScript tab and you'll see some JavaScript code
 var header = document.querySelector("#header").innerHTML
 var linkText = document.querySelector('a').text
 var linkHref = 
-
+document.querySelector('a').text
 
 
 // NO NEED TO MODIFY BELOW HERE
